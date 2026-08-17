@@ -131,11 +131,11 @@ This section is generated from the GitHub API. It follows my most recently pushe
 <!-- AUTO:PROJECTS:START -->
 | Project | What it is | Stack | Last push |
 |:--|:--|:--:|:--:|
+| [promptcanvas](https://github.com/dev-aryank/promptcanvas) | Distributed AI app builder with Spring Boot, inspired by Lovable and Bolt. Generate, modify, execute, and preview apps using natural-language prompts. | `Java` | 17 Aug 2026 |
 | [stayease-backend](https://github.com/dev-aryank/stayease-backend) | Production-ready Spring Boot backend for a hotel booking platform featuring hotel management, bookings, inventory, authentication, payments, and dy… | `Java` | 16 Aug 2026 |
 | [custom-db-cpp](https://github.com/dev-aryank/custom-db-cpp) | A lightweight CLI-based database engine in C++ with JSON-based persistent storage, supporting SQL-like operations such as CREATE, INSERT, SELECT, U… | `C++` | 29 Apr 2026 |
 | [satellite-dark-image-enhancement](https://github.com/dev-aryank/satellite-dark-image-enhancement) | A classical (non-deep learning) pipeline for enhancing low-light satellite and aerial images using multi-illumination fusion, contrast-saliency wei… | `Python` | 28 Apr 2026 |
 | [dpi-engine-cpp](https://github.com/dev-aryank/dpi-engine-cpp) | High-performance Deep Packet Inspection engine in C++ with multi-threaded architecture, SNI extraction, and rule-based traffic filtering. | `C++` | 28 Apr 2026 |
-| [Software-Engineering-Lab](https://github.com/dev-aryank/Software-Engineering-Lab) | A project whose story is still being written. | `Code` | 05 Nov 2024 |
 <!-- AUTO:PROJECTS:END -->
 
 <br />
@@ -200,6 +200,7 @@ This section is generated from the GitHub API. It follows my most recently pushe
 ## Recent activity
 
 <!-- AUTO:ACTIVITY:START -->
+- **17 Aug 2026** — created branch in [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 - **16 Aug 2026** — pushed 1 commit to [dev-aryank/dev-aryank](https://github.com/dev-aryank/dev-aryank)
 - **16 Aug 2026** — pushed 1 commit to [dev-aryank/dev-aryank](https://github.com/dev-aryank/dev-aryank)
 - **16 Aug 2026** — pushed 1 commit to [dev-aryank/dev-aryank](https://github.com/dev-aryank/dev-aryank)
@@ -207,7 +208,6 @@ This section is generated from the GitHub API. It follows my most recently pushe
 - **16 Aug 2026** — pushed 1 commit to [dev-aryank/stayease-backend](https://github.com/dev-aryank/stayease-backend)
 - **16 Aug 2026** — pushed 1 commit to [dev-aryank/stayease-backend](https://github.com/dev-aryank/stayease-backend)
 - **15 Aug 2026** — pushed 1 commit to [dev-aryank/stayease-backend](https://github.com/dev-aryank/stayease-backend)
-- **09 Aug 2026** — pushed 1 commit to [dev-aryank/stayease-backend](https://github.com/dev-aryank/stayease-backend)
 <!-- AUTO:ACTIVITY:END -->
 
 <br />
