@@ -131,7 +131,7 @@ This section is generated from the GitHub API. It follows my most recently pushe
 <!-- AUTO:PROJECTS:START -->
 | Project | What it is | Stack | Last push |
 |:--|:--|:--:|:--:|
-| [promptcanvas](https://github.com/dev-aryank/promptcanvas) | Distributed AI app builder with Spring Boot, inspired by Lovable and Bolt. Generate, modify, execute, and preview apps using natural-language prompts. | `Java` | 29 Aug 2026 |
+| [promptcanvas](https://github.com/dev-aryank/promptcanvas) | Distributed AI app builder with Spring Boot, inspired by Lovable and Bolt. Generate, modify, execute, and preview apps using natural-language prompts. | `Java` | 31 Aug 2026 |
 | [stayease-backend](https://github.com/dev-aryank/stayease-backend) | Production-ready Spring Boot backend for a hotel booking platform featuring hotel management, bookings, inventory, authentication, payments, and dy… | `Java` | 16 Aug 2026 |
 | [custom-db-cpp](https://github.com/dev-aryank/custom-db-cpp) | A lightweight CLI-based database engine in C++ with JSON-based persistent storage, supporting SQL-like operations such as CREATE, INSERT, SELECT, U… | `C++` | 29 Apr 2026 |
 | [satellite-dark-image-enhancement](https://github.com/dev-aryank/satellite-dark-image-enhancement) | A classical (non-deep learning) pipeline for enhancing low-light satellite and aerial images using multi-illumination fusion, contrast-saliency wei… | `Python` | 28 Apr 2026 |
@@ -200,12 +200,12 @@ This section is generated from the GitHub API. It follows my most recently pushe
 ## Recent activity
 
 <!-- AUTO:ACTIVITY:START -->
+- **31 Aug 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 - **29 Aug 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 - **28 Aug 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 - **24 Aug 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 - **24 Aug 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 - **23 Aug 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
-- **22 Aug 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 - **22 Aug 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 - **22 Aug 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 <!-- AUTO:ACTIVITY:END -->
