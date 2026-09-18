@@ -131,7 +131,7 @@ This section is generated from the GitHub API. It follows my most recently pushe
 <!-- AUTO:PROJECTS:START -->
 | Project | What it is | Stack | Last push |
 |:--|:--|:--:|:--:|
-| [promptcanvas-frontend](https://github.com/dev-aryank/promptcanvas-frontend) | Frontend for PromptCanvas — AI chat, project management, file exploration, and live preview for generated applications. | `TypeScript` | 17 Sept 2026 |
+| [promptcanvas-frontend](https://github.com/dev-aryank/promptcanvas-frontend) | Frontend for PromptCanvas — AI chat, project management, file exploration, and live preview for generated applications. | `TypeScript` | 18 Sept 2026 |
 | [promptcanvas](https://github.com/dev-aryank/promptcanvas) | Distributed AI app builder with Spring Boot, inspired by Lovable and Bolt. Generate, modify, execute, and preview apps using natural-language prompts. | `Java` | 17 Sept 2026 |
 | [stayease-backend](https://github.com/dev-aryank/stayease-backend) | Production-ready Spring Boot backend for a hotel booking platform featuring hotel management, bookings, inventory, authentication, payments, and dy… | `Java` | 16 Aug 2026 |
 | [custom-db-cpp](https://github.com/dev-aryank/custom-db-cpp) | A lightweight CLI-based database engine in C++ with JSON-based persistent storage, supporting SQL-like operations such as CREATE, INSERT, SELECT, U… | `C++` | 29 Apr 2026 |
@@ -200,6 +200,7 @@ This section is generated from the GitHub API. It follows my most recently pushe
 ## Recent activity
 
 <!-- AUTO:ACTIVITY:START -->
+- **18 Sept 2026** — pushed 1 commit to [dev-aryank/promptcanvas-frontend](https://github.com/dev-aryank/promptcanvas-frontend)
 - **17 Sept 2026** — pushed 1 commit to [dev-aryank/promptcanvas-frontend](https://github.com/dev-aryank/promptcanvas-frontend)
 - **17 Sept 2026** — created branch in [dev-aryank/promptcanvas-frontend](https://github.com/dev-aryank/promptcanvas-frontend)
 - **17 Sept 2026** — pushed 1 commit to [dev-aryank/promptcanvas-frontend](https://github.com/dev-aryank/promptcanvas-frontend)
@@ -207,7 +208,6 @@ This section is generated from the GitHub API. It follows my most recently pushe
 - **11 Sept 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 - **04 Sept 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 - **06 Sept 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
-- **05 Sept 2026** — pushed 1 commit to [dev-aryank/promptcanvas](https://github.com/dev-aryank/promptcanvas)
 <!-- AUTO:ACTIVITY:END -->
 
 <br />
